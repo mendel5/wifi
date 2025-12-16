@@ -8,3 +8,4 @@ Information about Wi-Fi (wifi, WLAN, wireless LAN)
 - https://techinfodepot.shoutwiki.com/wiki/Main_Page Yes
 - https://deviwiki.com/
 - https://boxmatrix.info/wiki/BoxMatrix Yes
+- https://www.router-faq.de/
